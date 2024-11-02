@@ -2,6 +2,18 @@
 
 RockyRabbit is a data encryption program written in Python, inspired by the concepts of "Rocky" and "Rabbit." This program employs advanced cryptographic techniques to encrypt files securely, and it is designed for educational purposes to demonstrate the principles of data security and encryption.
 
+       /\     /\ 
+      {  `---'  }
+      {  O   O  }   RockyRabbit
+      ~~>  V  <~~
+       \ \|/ /
+        `-----'____
+        /     \    \_
+       {       }\  )_\
+       |  \_/  ) / /
+        \__/  /(_/  
+          (__/
+
 ## Features
 
 - **File Encryption**: Securely encrypts files using AES-GCM.
